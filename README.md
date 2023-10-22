@@ -2,17 +2,17 @@
 
 ###  ⚡ Fun fact: I'm trying to figure out what this fancy Github profile thing is..
 
-.. but hmm nevermind here's what I'm foing
+.. but hmm nevermind here's what I'm doing
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=starfunkel&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
+You'le see. It's mainly coding and archiving knowledge of my own. So here's some fun
 
-### My unfinished work
-
+### My unfinished and noobish work
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=starfunkel&repo=get-adinfo&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22github-readme-streak-stats" alt="My Github stats">
 
 
-### This I'm proud of:
+### This I'm kinda but not realy proud of:
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=starfunkel&repo=fine_arts&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22github-readme-streak-stats">
 
 
