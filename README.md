@@ -1,6 +1,6 @@
 # Hi stranger 👋
 
-###  ⚡ Fun fact: I'm trying to figure out what this fancy Github profile thing is..
+###  Fun fact: I'm trying to figure out what this fancy Github profile thing is..
 
 .. but nevermind here's what I'm doing
 
