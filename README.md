@@ -10,7 +10,9 @@
 
 You'le see. It's mainly coding and archiving knowledge of my own. So here's some fun
 
+<p align="center">
 ### My first ever Powershell project and some pretty things
+</p>
 
 <p align="center">
   <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=starfunkel&repo=get-adinfo&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22github-readme-streak-stats" alt="My Github stats">
