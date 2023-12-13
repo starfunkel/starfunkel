@@ -1,6 +1,8 @@
 <p align="center" width="100%">
   
-  # Hi stranger 👋
+# Hi stranger 👋
+
+</p>
 
 ###  Fun fact: I'm trying to figure out what this fancy Github profile thing is..
 
