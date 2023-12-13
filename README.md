@@ -19,10 +19,7 @@ You'le see. It's mainly coding and archiving knowledge of my own. So here's some
   <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=starfunkel&repo=fine_arts&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22github-readme-streak-stats">
 </p>
 
-
-
-
-
+<br><br><br><br><br><br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true">
