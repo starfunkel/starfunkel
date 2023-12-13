@@ -8,8 +8,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=starfunkel&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 </p>
 
-You'le see. It's mainly coding and archiving knowledge of my own. So here's some fun
-
 <br><br><br>
 
 ### My first ever Powershell project and some pretty things
