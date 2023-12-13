@@ -10,7 +10,10 @@
 
 You'le see. It's mainly coding and archiving knowledge of my own. So here's some fun
 
+<br><br><br>
+
 <p align="center">
+  
 ### My first ever Powershell project and some pretty things
 </p>
 
