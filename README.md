@@ -1,3 +1,7 @@
+<center>Centered text</center>
+
+
+
 # Hi stranger 👋
 
 <p style="text-align: center;">
