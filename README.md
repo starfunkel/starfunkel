@@ -22,11 +22,6 @@
   <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=starfunkel&repo=get-adinfo&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
 
-![Readme Card](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=starfunkel&repo=fine_arts&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-
-![Readme Card](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=starfunkel&repo=get-adinfo&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-
-
 <br><br><br><br><br><br>
 
 <p align="center">
