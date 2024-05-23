@@ -15,7 +15,7 @@
 <br><br>
 
 <p align="center">
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=starfunkel&repo=get-adinfo&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22github-readme-streak-stats" alt="My Github stats")
+  [[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=starfunkel&repo=get-adinfo)](https://github.com/starfunkel/get-adinfo)
 
 
   <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=starfunkel&repo=fine_arts&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22github-readme-streak-stats">
