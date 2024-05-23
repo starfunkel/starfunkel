@@ -15,7 +15,7 @@
 <br><br>
 
 <p align="center">
-  [[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=starfunkel&repo=get-adinfo)](https://github.com/starfunkel/get-adinfo)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=starfunkel&repo=get-adinfo)](https://github.com/starfunkel/get-adinfo)
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
