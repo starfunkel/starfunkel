@@ -10,7 +10,6 @@
 
 <br><br><br>
 
-[![What have I done?](https://github-readme-stats.vercel.app/api/wakatime?username=starfunkel)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My first ever Powershell project and some pretty things
 
@@ -18,9 +17,9 @@
 
 <p allign="center">
 
-[![Readme Card](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=starfunkel&repo=fine_arts)](https://github.com/starfunkel/fine_arts)
+![Readme Card](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=starfunkel&repo=fine_arts&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
-[![Readme Card](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=starfunkel&repo=get-adinfo)](https://github.com/starfunkel/get-adinfo)
+![Readme Card](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=starfunkel&repo=get-adinfo&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 </p>
 
 <br><br><br><br><br><br>
