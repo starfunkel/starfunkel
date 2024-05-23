@@ -10,6 +10,8 @@
 
 <br><br><br>
 
+[![What have I done?](https://github-readme-stats.vercel.app/api/wakatime?username=starfunkel)](https://github.com/anuraghazra/github-readme-stats)
+
 ### My first ever Powershell project and some pretty things
 
 <br><br>
