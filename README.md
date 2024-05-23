@@ -17,7 +17,7 @@
 
 [![Readme Card](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=starfunkel&repo=fine_arts)](https://github.com/starfunkel/fine_arts)
 
-[![Readme Card](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=starfunkel&repo=get-adinfo]](https://github.com/starfunkel/get-adinfo)
+[![Readme Card](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=starfunkel&repo=get-adinfo](https://github.com/starfunkel/get-adinfo)
 
 <br><br><br><br><br><br>
 
