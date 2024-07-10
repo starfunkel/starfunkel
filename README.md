@@ -12,11 +12,15 @@
 
 <a href="https://github.com/starfunkel/get-adinfo">
   <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=starfunkel&repo=get-adinfo&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+
 <a href="https://github.com/starfunkel/get-adinfo">
-<img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=starfunkel&repo=get-adin        fo&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+<img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=starfunkel&Starfunkels-Chainsaw-Repo&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+
 <a href="https://github.com/starfunkel/fine_arts">
   <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=starfunkel&repo=fine_arts&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+
 </a></p><br>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true">
