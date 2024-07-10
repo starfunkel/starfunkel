@@ -13,7 +13,7 @@
 <a href="https://github.com/starfunkel/get-adinfo">
   <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=starfunkel&repo=get-adinfo&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 
-<a href="https://github.com/starfunkel/get-adinfo">
+<a href="https://github.com/starfunkel/Starfunkels-Chainsaw-Repo">
   <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=starfunkel&repo=Starfunkels-Chainsaw-Repo&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 
 <a href="https://github.com/starfunkel/fine_arts">
