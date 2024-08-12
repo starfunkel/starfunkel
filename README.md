@@ -1,13 +1,7 @@
-# Hi stranger 👋
-
-###  Fun fact: I'm trying to figure out what this fancy Github profile thing is..
-
-.. but nevermind here's what I'm doing
-
-<p align="center">
+<!--<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=starfunkel&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 </p><br><br><br><br><br>
-
+-->
 <p align="center">
 
 <a href="https://github.com/starfunkel/get-adinfo">
