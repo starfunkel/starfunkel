@@ -2,16 +2,15 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=starfunkel&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 </p><br><br><br><br><br>
 -->
-<p align="center">
 
-     _____ ___________ _   _  _   __
-    /  ___|_   _|  ___| \ | || | / /        
-    \ `--.  | | | |_  |  \| || |/ /         
-    `--. \ | | |  _| | . ` ||    \
-    /\__/ / | | | |   | |\  || |\  \
-    \____/  \_/ \_|   \_| \_/\_| \_/
+<p align="center"> _____ ___________ _   _  _   __ 
+<p align="center">/  ___|_   _|  ___| \ | || | / /        
+<p align="center">\ `--.  | | | |_  |  \| || |/ /         
+<p align="center"> `--. \ | | |  _| | . ` ||    \
+<p align="center">/\__/ / | | | |   | |\  || |\  \
+<p align="center">\____/  \_/ \_|   \_| \_/\_| \_/
 
-
+ <p align="center">
 <a href="https://github.com/starfunkel/get-adinfo">
   <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=starfunkel&repo=get-adinfo&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 
