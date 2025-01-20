@@ -3,12 +3,12 @@
 </p><br><br><br><br><br>
 -->
 
-<p align="center"> _____ ___________ _   _  _   __  />
-<p align="center">/  ___|_   _|  ___| \ | || | / /        
-<p align="center">\ `--.  | | | |_  |  \| || |/ /         
-<p align="center"> `--. \ | | |  _| | . ` ||    \
-<p align="center">/\__/ / | | | |   | |\  || |\  \
-<p align="center">\____/  \_/ \_|   \_| \_/\_| \_/
+<p align="center">" _____ ___________ _   _  _   __"  />
+<p align="center">"/  ___|_   _|  ___| \ | || | / /" />
+<p align="center">"\ `--.  | | | |_  |  \| || |/ /" />         
+<p align="center">" `--. \ | | |  _| | . ` ||    \" />
+<p align="center">"/\__/ / | | | |   | |\  || |\  \" />
+<p align="center">"\____/  \_/ \_|   \_| \_/\_| \_/" />
 
  <p align="center">
 <a href="https://github.com/starfunkel/get-adinfo">
